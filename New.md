@@ -155,5 +155,5 @@ https://github.com/OT-TRAINING/DeploymentStrategies
 
 ![V2 SS](https://github.com/vikas418/AWS-Tasks/assets/149520276/e7dfde5b-f078-4f97-a511-f49059048838)
 
-## 👥 Authors
+## ✍️ Authors
 - [Vikas Bandi](https://github.com/vikas418)
