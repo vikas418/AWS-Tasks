@@ -4,11 +4,11 @@
 
 ### In this assignment, you will learn about various deployment strategies:
 
-- 🔄 **Recreate Deployment**
-- 🔄 **Rolling Deployment**
-- 🔵🟢 **Blue-Green Deployment**
-- 🅰️🅱️ **A/B Deployment**
-- 🐤 **Canary Deployment**
+- 🔄 **Recreate Deployment** -----> Not Recommended
+- 🔄 **Rolling Deployment** ----> Highly Recommended Deployment Strategy
+- 🔵🟢 **Blue-Green Deployment** ----> Recommended Deployment Strategy
+- 🅰️🅱️ **A/B Deployment** -----> Not Recommended
+- 🐤 **Canary Deployment** -----> Not Recommended
 
 ### You need to implement these two deployment strategies:
 
